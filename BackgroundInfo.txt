@@ -1,0 +1,11 @@
+This is a list of useful articles our group has found for the Genetool project
+
+http://www.genetics.org/content/178/4/2123
+
+http://www.arrayserver.com/wiki/index.php?title=Genetics_GwasQCPipeline.pdf
+
+https://f1000research.com/articles/5-1889/v1
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3907355/
+
+https://hstalks.com/t/868/quality-control-measures-for-gwas/
