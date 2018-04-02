@@ -29,3 +29,11 @@ hist(hwe$P)
 table(hwe$P<1e-06)
 #find the percentage of SNPs with a P-value less than 1e-06 = .13%
 table(hwe$P<1e-06)/sum(table(hwe$P<1e-06))
+
+#read in genome file for ibd values and plots
+ibd <- read.table("manual_report.geno.rc.genome", header = TRUE)
+#plot fo Z0 vs Z1
+qplot(Z0,Z1,data=ibd, colour=RT)
+#histogram of PI_HAT values
+hist(ibd$PI_HAT)
+#no duplicates present
