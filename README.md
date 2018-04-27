@@ -75,4 +75,4 @@ The .hwe file was the output of the hardy weinberg check command in PLINK and co
 After the relationship check PLINK command, the newly generated .genome file was input in R in order to create an ibd plot based on the Z0 and Z1 scores. The Z0 score represents the probability that the IBD is 0, whereas the Z1 score represents the probability that the IBD is 1. Related individuals can be visualized based on their location on the IBD plot. A histogram was also created using the PI_HAT (proportion of IBD) values.
 
 7.       A filtered IBD plot of the dataset (if the filter step has been chosen by the user)
-8.       An accompanying histogram of PIi-HAT of the filtered IBD plot (if filter step has been chosen by the user)
+8.       An accompanying histogram of PI-HAT of the filtered IBD plot (if filter step has been chosen by the user)
