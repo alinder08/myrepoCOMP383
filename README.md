@@ -76,4 +76,3 @@ After the relationship check PLINK command, the newly generated .genome file was
 
 7.       A filtered IBD plot of the dataset (if the filter step has been chosen by the user)
 8.       An accompanying histogram of PIi-HAT of the filtered IBD plot (if filter step has been chosen by the user)
-
